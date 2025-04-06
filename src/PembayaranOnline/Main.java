@@ -1,5 +1,6 @@
 package PembayaranOnline;
-import java.util.Scanner;
+//test
+//test
 public class Main {
     public static void main(String[] args) {
         //siti's transaction
@@ -20,7 +21,6 @@ public class Main {
         Asnawi.headline();
         Asnawi.display();
         Asnawi.boundaries();
-
 
     }
 }

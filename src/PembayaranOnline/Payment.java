@@ -5,6 +5,7 @@ public class Payment {
     String paymentMethod;
     boolean paymentStatus;
 
+
     //constructor
     public Payment(double totalPrice, String paymentMethod) {
         this.totalPrice = totalPrice;
